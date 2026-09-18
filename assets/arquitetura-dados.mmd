@@ -1,0 +1,9 @@
+flowchart TB
+    O[Fontes operacionais] --> T[Power Query]
+    T --> FC[Fato de chamada]
+    T --> FP[Fato de planejamento]
+    T --> D[Dimensões]
+    D --> M[Medidas DAX]
+    FC --> M
+    FP --> M
+    M --> R[Relatório Power BI]

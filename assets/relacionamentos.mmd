@@ -1,0 +1,7 @@
+flowchart LR
+    CAL[dCalendário] --> CH[1-FATO_CHAMADA]
+    CAL --> PL[1-FATO_OBZ]
+    COL[dColaboradores] --> CH
+    STA[dStatus] --> CH
+    CH --> MED[Medidas]
+    PL --> MED
