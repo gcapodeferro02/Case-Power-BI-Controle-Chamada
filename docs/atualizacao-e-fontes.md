@@ -20,6 +20,20 @@ atualiza as medidas consumidas pelo relatório.
 > Esta imagem é ilustrativa. Ela apresenta um padrão de pipeline de dados e não
 > deve ser interpretada como um inventário literal das fontes deste projeto.
 
+## Aplicativo e geração dos dados de presença
+
+![Aplicativo de controle de presença](../assets/app-controle-presenca.png)
+
+O aplicativo foi desenvolvido com **Google Apps Script** e conectado a uma
+planilha do **Google Sheets**. A interface permite que os gestores da operação
+realizem o input dos dados diários dos colaboradores, incluindo presença,
+falta e outras ocorrências operacionais.
+
+A planilha recebe e organiza esses lançamentos, funcionando como a fonte
+operacional responsável por gerar os dados de presença e falta utilizados no
+acompanhamento. Depois dessa etapa, os dados seguem para tratamento,
+modelagem e consumo no Power BI.
+
 ## Fontes documentadas
 
 ### Registros de chamada

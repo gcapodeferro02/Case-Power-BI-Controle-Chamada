@@ -37,6 +37,20 @@ informações do ambiente original.
 > A imagem acima é uma referência visual de arquitetura de dados e não
 > representa literalmente todas as fontes ou ferramentas deste case.
 
+## Aplicativo de lançamento de presença
+
+![Aplicativo de controle de presença](assets/app-controle-presenca.png)
+
+O aplicativo de lançamento de presença foi criado com **Google Apps Script** e
+integrado a uma planilha do **Google Sheets**. Os gestores da operação realizam
+o input diário dos dados de presença, falta e demais ocorrências dos
+colaboradores.
+
+Esses lançamentos alimentam a planilha, que funciona como base operacional para
+gerar os dados de presença e falta consumidos pelo Power BI. Dessa forma, o
+relatório transforma o input realizado na operação em uma visão consolidada
+para acompanhamento e análise.
+
 ## Índice da documentação
 
 | Documento | O que explica |
