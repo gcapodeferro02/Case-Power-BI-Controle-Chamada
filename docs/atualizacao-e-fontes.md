@@ -34,6 +34,20 @@ operacional responsável por gerar os dados de presença e falta utilizados no
 acompanhamento. Depois dessa etapa, os dados seguem para tratamento,
 modelagem e consumo no Power BI.
 
+## Fluxo operacional completo
+
+```mermaid
+flowchart LR
+    G[Gestor] --> A[Aplicativo de presença]
+    A --> S[Google Sheets]
+    S --> T[Tratamento e integração]
+    T --> M[Modelo Power BI]
+    M --> I[Indicadores]
+```
+
+O aplicativo recebe o input dos gestores, a planilha organiza os lançamentos e
+o Power BI transforma essa base em informação para acompanhamento.
+
 ## Fontes documentadas
 
 ### Registros de chamada
