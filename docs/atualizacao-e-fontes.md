@@ -15,6 +15,11 @@ flowchart LR
 O refresh localiza as entradas, transforma os dados, carrega as tabelas e
 atualiza as medidas consumidas pelo relatório.
 
+![Fluxo de arquitetura de referência](../assets/fluxo-arquitetura-referencia.png)
+
+> Esta imagem é ilustrativa. Ela apresenta um padrão de pipeline de dados e não
+> deve ser interpretada como um inventário literal das fontes deste projeto.
+
 ## Fontes documentadas
 
 ### Registros de chamada

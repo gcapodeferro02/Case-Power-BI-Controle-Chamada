@@ -32,6 +32,11 @@ informações do ambiente original.
 
 [Diagrama da arquitetura do relatório](assets/arquitetura-dados.mmd)
 
+![Fluxo de arquitetura de referência](assets/fluxo-arquitetura-referencia.png)
+
+> A imagem acima é uma referência visual de arquitetura de dados e não
+> representa literalmente todas as fontes ou ferramentas deste case.
+
 ## Índice da documentação
 
 | Documento | O que explica |
