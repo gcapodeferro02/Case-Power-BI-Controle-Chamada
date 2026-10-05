@@ -1,5 +1,7 @@
 # Páginas do relatório
 
+> **Nó Pai:** [[05_PROJETOS/CHAMADA/Case-Power-BI-Controle-Chamada/README|Voltar ao Case Chamada]] | [[05_PROJETOS/CHAMADA/HUB_CHAMADA|HUB Chamada]]  
+
 ## Visão principal
 
 A página de entrada concentra a leitura executiva do acompanhamento. A

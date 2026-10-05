@@ -1,5 +1,6 @@
 # Case: desenvolvimento de um Power BI de controle de chamada
 
+> **Nó Pai:** [[05_PROJETOS/CHAMADA/HUB_CHAMADA|Voltar ao HUB Chamada]] | [[00_INDICE_MESTRE|Índice Mestre]]  
 > Documentação pública e sanitizada de uma solução operacional e analítica para
 > registrar presença, consolidar chamadas e acompanhar a operação.
 

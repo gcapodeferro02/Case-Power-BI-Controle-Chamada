@@ -1,5 +1,7 @@
 # Segurança e limitações
 
+> **Nó Pai:** [[05_PROJETOS/CHAMADA/Case-Power-BI-Controle-Chamada/README|Voltar ao Case Chamada]] | [[05_PROJETOS/CHAMADA/HUB_CHAMADA|HUB Chamada]]  
+
 ## O que não deve ser publicado
 
 O case público não contém:

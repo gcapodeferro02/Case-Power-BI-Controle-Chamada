@@ -1,5 +1,7 @@
 # Modelo semântico e relacionamentos
 
+> **Nó Pai:** [[05_PROJETOS/CHAMADA/Case-Power-BI-Controle-Chamada/README|Voltar ao Case Chamada]] | [[05_PROJETOS/CHAMADA/HUB_CHAMADA|HUB Chamada]]  
+
 ## Como ler o modelo
 
 - **Fato** registra eventos ou valores em uma granularidade definida.
